@@ -23,3 +23,8 @@
   * [設計賓至如歸的HTTPS強制導向網頁](https://blog.darkthread.net/blog/ssl-redirect/)
   * [IIS HTTP 強制轉 HTTPS 簡易做法](https://blog.darkthread.net/blog/http-to-https-with-iis/)
   * [強迫網站轉向到 HTTPS 加密安全連線 ( IIS URL Rewrite )](https://blog.miniasp.com/post/2014/06/04/Redirect-to-HTTPS-from-HTTP-using-IIS-URL-Rewrite)
+  * [IIS HTML 檔 Cache 行為觀察](https://blog.darkthread.net/blog/iis-static-content-cache/)
+  * [循序漸進理解 HTTP Cache 機制](https://blog.techbridge.cc/2017/06/17/cache-introduction/)
+  * [介紹 IIS 10.0 全新設定<environmentVariables>自訂環境變數功能](https://blog.miniasp.com/post/2017/02/28/How-to-configure-custom-environment-Variables-in-IIS-10)
+  * [使用 WMI 匯出 IIS 6 網站設定](https://blog.darkthread.net/blog/wmi-export-iis6-setting/)
+ 
