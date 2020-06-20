@@ -2,6 +2,8 @@
   * [ASP.NET MVC 5 網站開發美學](https://play.google.com/books/reader?id=mQqnBAAAQBAJ&printsec=frontcover&output=reader&hl=zh_TW&pg=GBS.PR20)
   * [觀念的轉變-Web Form到ASP.NET MVC之路](http://www.uuu.com.tw/Public/content/article/150406tips.htm)
   * [.NET環境下的ORM技術研究](http://www.syscom.com.tw/ePaper_Content_EPArticledetail.aspx?id=106&EPID=164&j=4&HeaderName=%E7%A0%94%E7%99%BC%E6%96%B0%E8%A6%96%E7%95%8C)
+  * [泛型委派](https://jeffprogrammer.wordpress.com/2015/12/30/%E8%A7%80%E5%BF%B5-generic-delegate-action-func/)
+  * [Lambda Expression](https://jeffprogrammer.wordpress.com/2016/01/02/%e8%a7%80%e5%bf%b5-lambda-expression-func/)
   
 # IIS
   * [使用T-SQL分析IIS Log](https://ithelp.ithome.com.tw/articles/10204502)
