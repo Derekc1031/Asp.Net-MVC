@@ -13,7 +13,7 @@
   * [客製靜態檔案 HTTP 404 訊息-黑暗執行緒](https://blog.darkthread.net/blog/static-file-custom-error/)
   * [小試 IIS 的簡易 DoS 防護－動態 IP 限制](https://blog.darkthread.net/blog/iis-dynamic-ip-restriction/)
   * [徹底移除 IIS Response Header 版本資訊](https://blog.darkthread.net/blog/remove-iis-response-server-header/)
-  * [小技巧－多站台共用 IIS 80 Port](https://blog.darkthread.net/blog/remove-iis-response-server-header/)
+  * [小技巧－多站台共用 IIS 80 Port](https://blog.darkthread.net/blog/websites-sharing-80-port/)
   * [使用 PowerShell 設定 IIS 網站](https://blog.darkthread.net/blog/powershell-admin-iis/)
   * [關於IIS整合式Windows驗證的冷知識](https://blog.darkthread.net/blog/powershell-admin-iis/)
   * [IISLog應用案例分享: 統計特定網頁的平均執行時間](https://blog.darkthread.net/blog/log-parser-case-for-time-taken/)
