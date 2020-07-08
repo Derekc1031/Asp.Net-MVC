@@ -15,7 +15,7 @@
   * [徹底移除 IIS Response Header 版本資訊](https://blog.darkthread.net/blog/remove-iis-response-server-header/)
   * [小技巧－多站台共用 IIS 80 Port](https://blog.darkthread.net/blog/websites-sharing-80-port/)
   * [使用 PowerShell 設定 IIS 網站](https://blog.darkthread.net/blog/powershell-admin-iis/)
-  * [關於IIS整合式Windows驗證的冷知識](https://blog.darkthread.net/blog/powershell-admin-iis/)
+  * [關於IIS整合式Windows驗證的冷知識](https://blog.darkthread.net/blog/ntlm-and-kerberos-on-iis/)
   * [IISLog應用案例分享: 統計特定網頁的平均執行時間](https://blog.darkthread.net/blog/log-parser-case-for-time-taken/)
   * [IIS WMI 網站設定資料解析](https://blog.darkthread.net/blog/iiswebvirtualdirsetting-parsing/)
   * [再談 IIS 與 ASP.NET 網站自動安裝設定 - 使用 PowerShell](https://blog.darkthread.net/blog/setup-web-with-powershell-2/)
