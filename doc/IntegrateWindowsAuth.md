@@ -30,6 +30,8 @@
 * [Troubleshooting Kerberos failures in Internet Explorer](https://support.microsoft.com/en-us/help/4551934/kerberos-failures-in-internet-explorer)
 * [SQL Server domain authentication problems](https://help.deepsecurity.trendmicro.com/12_0/on-premise/kerberos-mssql.html)
 * [無法使用Windows帳號登入防火牆內的SQL Serve](https://blog.darkthread.net/blog/ssms-sspi-firewall-issue/)
+* [為什麼 Web 應用程式已經啟用Windows驗證，仍會提示要求輸入使用者名稱和密碼？](https://dotblogs.com.tw/terrychuang/2012/05/25/72388)
+* [如何設定 Internet Explorer 自動登入使用 AD 認證的網站，或設定不要自動登入](https://support.microsoft.com/zh-tw/help/978218)
 
 
 ### 其他資料:
