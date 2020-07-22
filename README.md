@@ -4,10 +4,11 @@
   * [.NET環境下的ORM技術研究](http://www.syscom.com.tw/ePaper_Content_EPArticledetail.aspx?id=106&EPID=164&j=4&HeaderName=%E7%A0%94%E7%99%BC%E6%96%B0%E8%A6%96%E7%95%8C)
   * [泛型委派](https://jeffprogrammer.wordpress.com/2015/12/30/%E8%A7%80%E5%BF%B5-generic-delegate-action-func/)
   * [Lambda Expression](https://jeffprogrammer.wordpress.com/2016/01/02/%e8%a7%80%e5%bf%b5-lambda-expression-func/)
-  
+
+# [Windows 整合式驗證](https://github.com/Derekc1031/Back-End-Developing/blob/master/doc/IntegrateWindowsAuth.md)
+
 # IIS
   * [使用T-SQL分析IIS Log](https://ithelp.ithome.com.tw/articles/10204502)
-  * [介紹 IIS 7.5 的應用程式集區與新增的「虛擬帳戶」特性](https://blog.miniasp.com/post/2009/09/09/Introduce-IIS-75-Application-Pool-Identity-and-Virtual-Account)
   * [web.config修改未發生作用](https://blog.darkthread.net/blog/webconfig-change-not-work/)
   * [customErrors與httpErrors](https://blog.darkthread.net/blog/customerrors-and-httperrors/)
   * [客製靜態檔案 HTTP 404 訊息-黑暗執行緒](https://blog.darkthread.net/blog/static-file-custom-error/)
@@ -15,7 +16,6 @@
   * [徹底移除 IIS Response Header 版本資訊](https://blog.darkthread.net/blog/remove-iis-response-server-header/)
   * [小技巧－多站台共用 IIS 80 Port](https://blog.darkthread.net/blog/websites-sharing-80-port/)
   * [使用 PowerShell 設定 IIS 網站](https://blog.darkthread.net/blog/powershell-admin-iis/)
-  * [關於IIS整合式Windows驗證的冷知識](https://blog.darkthread.net/blog/ntlm-and-kerberos-on-iis/)
   * [IISLog應用案例分享: 統計特定網頁的平均執行時間](https://blog.darkthread.net/blog/log-parser-case-for-time-taken/)
   * [IIS WMI 網站設定資料解析](https://blog.darkthread.net/blog/iiswebvirtualdirsetting-parsing/)
   * [再談 IIS 與 ASP.NET 網站自動安裝設定 - 使用 PowerShell](https://blog.darkthread.net/blog/setup-web-with-powershell-2/)
