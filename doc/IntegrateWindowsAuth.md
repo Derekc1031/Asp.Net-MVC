@@ -4,7 +4,7 @@
 
 * **Windows相關帳戶**:
   * [SQL Server-Configure Windows Service Accounts and Permissions(**重要!建議先搞懂**)](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions?view=sql-server-ver15)
-  * [Windows存取控制概觀(**重要!建議先搞懂**)](https://docs.microsoft.com/zh-tw/windows/security/identity-protection/access-control/access-control)
+  * [Windows安全性-存取控制概觀(**重要!建議先搞懂**)](https://docs.microsoft.com/zh-tw/windows/security/identity-protection/access-control/access-control)
 
 * **SPN(Service Principal Names)**
   * [SPN-Microsoft官方文件](https://docs.microsoft.com/en-us/windows/win32/ad/service-principal-names)
