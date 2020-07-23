@@ -4,6 +4,8 @@
 
 * **Windows相關帳戶**:
   * [SQL Server-Configure Windows Service Accounts and Permissions(**重要!建議先搞懂**)](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions?view=sql-server-ver15)
+  * [如何配置託管服務帳號(MSA)](https://www.twblogs.net/a/5b9708682b717750bda88976)
+  * [How To Configure Managed Service Accounts Windows Server 2016](http://www.ntweekly.com/2018/02/07/configure-managed-service-accounts-windows-server-2016/)
   * [Windows安全性-存取控制概觀(**重要!建議先搞懂**)](https://docs.microsoft.com/zh-tw/windows/security/identity-protection/access-control/access-control)
 
 * **SPN(Service Principal Names)**
@@ -18,6 +20,7 @@
   
 * **AD(Active Directory)**
   * [Server 2008 R2 Active Directory建置實務-網域與樹系信任概觀](http://epaper.gotop.com.tw/pdf/aca015200.pdf)
+
 
 ### 相關實例:
 * [運作原理簡述](https://www.chainnews.com/zh-hant/articles/094369852800.htm)
