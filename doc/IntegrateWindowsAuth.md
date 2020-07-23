@@ -17,7 +17,7 @@
   * [關於IIS整合式Windows驗證的冷知識](https://blog.darkthread.net/blog/ntlm-and-kerberos-on-iis/)
   
 * **AD(Active Directory)**
- * [Server 2008 R2 Active Directory建置實務-網域與樹系信任概觀](http://epaper.gotop.com.tw/pdf/aca015200.pdf)
+  * [Server 2008 R2 Active Directory建置實務-網域與樹系信任概觀](http://epaper.gotop.com.tw/pdf/aca015200.pdf)
 
 ### 相關實例:
 * [運作原理簡述](https://www.chainnews.com/zh-hant/articles/094369852800.htm)
