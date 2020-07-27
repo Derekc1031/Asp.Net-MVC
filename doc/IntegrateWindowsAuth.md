@@ -3,6 +3,13 @@
 ### 前導知識:
 
 * **Windows相關帳戶(**重要!建議先搞懂**)**:
+  * MS SQL資料庫主要連線帳戶種類:
+  ![image](https://user-images.githubusercontent.com/14270012/88496615-55fd8480-cff0-11ea-9f9e-be033a8bc1d5.png)
+  Once you know the name of the account running the SQL Server service, you must locate it in Active Directory. The account can be in a few possible locations depending on
+  whether it is a local virtual account, a domain account, or a Managed Service account.
+  
+    [**Reference**:SQL Server domain authentication problems](https://help.deepsecurity.trendmicro.com/12_0/on-premise/kerberos-mssql.html)
+  
   * [SQL Server-Configure Windows Service Accounts and Permissions](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions?view=sql-server-ver15)
   * [如何配置託管服務帳號(MSA)](https://www.twblogs.net/a/5b9708682b717750bda88976)
   * [How To Configure Managed Service Accounts Windows Server 2016](http://www.ntweekly.com/2018/02/07/configure-managed-service-accounts-windows-server-2016/)
