@@ -11,8 +11,10 @@
     [**Reference**:SQL Server domain authentication problems](https://help.deepsecurity.trendmicro.com/12_0/on-premise/kerberos-mssql.html)
   
   * [SQL Server-Configure Windows Service Accounts and Permissions](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions?view=sql-server-ver15)
+  * [Local System、Local Service與Network Service的不同](https://blog.darkthread.net/blog/local-system-local-service-network-service/)
   * [如何配置託管服務帳號(MSA)](https://www.twblogs.net/a/5b9708682b717750bda88976)
   * [How To Configure Managed Service Accounts Windows Server 2016](http://www.ntweekly.com/2018/02/07/configure-managed-service-accounts-windows-server-2016/)
+  * [使用MSA(Managed Service Accounts)建置SQL服務](https://dotblogs.com.tw/jamesfu/2012/07/04/managedserviceaccounts)
   * [Windows安全性-存取控制概觀](https://docs.microsoft.com/zh-tw/windows/security/identity-protection/access-control/access-control)
 
 * **SPN(Service Principal Names)**
